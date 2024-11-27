@@ -1,6 +1,6 @@
 ## Prévia do Projeto
 
-![Prévia do projeto](C:\Users\User\Downloads)
+![Prévia do projeto](imagens/img-projeto)
 
 # Hero Section Website
 
