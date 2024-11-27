@@ -1,6 +1,6 @@
 ## Prévia do Projeto
 
-![Prévia do projeto](imagens/img-projeto)
+![Prévia do projeto](Screenshot.png)
 
 # Hero Section Website
 
